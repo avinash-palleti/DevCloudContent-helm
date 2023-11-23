@@ -71,7 +71,7 @@ entries:
       appVersion: 1.16.0
       created: "2023-08-30T11:38:07.710219121+05:30"
       description: A Helm chart for Kubernetes
-      digest: 7848ab522c7c402890d9aca0a9e474e4861adecc59f52a12ce48abb00e33b13c
+      digest: 764786977d32583e4b1fea788ba0cdb92a3e614412628b7eea7f651bd275a22f
       name: genai
       type: application
       urls:
