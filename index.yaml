@@ -75,6 +75,6 @@ entries:
       name: genai
       type: application
       urls:
-        - https://raw.githubusercontent.com/intel/DevCloudContent-helm/genai/genai.tgz
+        - https://raw.githubusercontent.com/avinash-palleti/DevCloudContent-helm/genai/genai.tgz
       version: 0.1.0
 generated: "2023-08-30T11:38:07.709213769+05:30"
